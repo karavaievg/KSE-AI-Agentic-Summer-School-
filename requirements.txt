@@ -1,0 +1,5 @@
+streamlit>=1.58
+plotly>=6.0
+pandas>=2.2
+numpy>=1.26
+tzdata>=2024.1
